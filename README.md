@@ -1,10 +1,11 @@
 # [CVPR 2024] Semantic Line Combination Detection
 
-### Jinwon Ko, Dongkwon Jin, and Chang-Su Kim
+**"Semantic Line Combination Detection"** in CVPR 2024.
 
-Official implementation for **"Semantic Line Combination Detection"**
+Jinwon Ko, Dongkwon Jin and Chang-Su Kim.
 
-Semantic Line Combination Detector, CVPR 2024.
+Official code for **SLCD**
+
 
 A new dataset called **"CDL"** is available at [here](https://drive.google.com/file/d/1uzzaPaD-lsX10_eKtsPwLqYwkcGhyLKp/view?usp=drive_link).
 
