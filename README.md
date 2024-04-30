@@ -3,6 +3,7 @@
 Jinwon Ko, Dongkwon Jin and Chang-Su Kim.
 
 Official code for **"Semantic Line Combination Detection"** in CVPR 2024.
+[[arxiv]](http://arxiv.org/abs/2404.18399).
 
 ### Dataset
 A new dataset called ```CDL``` is available at [here](https://drive.google.com/file/d/1uzzaPaD-lsX10_eKtsPwLqYwkcGhyLKp/view?usp=drive_link).
