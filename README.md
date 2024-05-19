@@ -86,7 +86,7 @@ For training line detector
 1. Edit `root/Modeling/Detector/code/config.py`. Please modify `run_mode` to `'train'`. Also, set the dataset you want to train (`dataset_name`).
 2. Run with
 ```
-$ cd ROOT/Modeling/Detector/code/
+$ cd root/Modeling/Detector/code/
 $ python main.py
 ```
 
