@@ -12,10 +12,10 @@ Download the following datasets to ```root/Datasets/```.
 ### Installation
 1. Create conda environment:
 ```
-    $ conda create -n SLCD python=3.6 anaconda
-    $ conda activate SLCD
-    $ conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
-    $ pip install opencv-python==4.7.0.72
+$ conda create -n SLCD python=3.6 anaconda
+$ conda activate SLCD
+$ conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
+$ pip install opencv-python==4.7.0.72
 ```
 
 2. If you want to get the performance of the paper, download our [model parameters](https://drive.google.com/file/d/1ZjuNuoRl9xCARBW6nhzua95WPQdCnRMx/view?usp=drive_link) to ```root/Modeling/pretrained/``` and [preprocessed data](https://drive.google.com/file/d/1xax-MNFA1cdMhEg23ln4ZLqOd02HytlW/view?usp=drive_link) for SEL, SEL_Hard, NKL(SL5K), and CDL datasets to ```root/Preprocessing/```.
