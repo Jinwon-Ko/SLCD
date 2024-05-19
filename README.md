@@ -72,7 +72,7 @@ $ pip install opencv-python==4.7.0.72
     |   |   |   ├── Labels
 
 
-### Evaluation (for performance of the paper)
+### Evaluation
 Run with
 ```
 cd root/Modeling/SLCD/code/
