@@ -81,6 +81,7 @@ python main.py
 
 ### Train
 For training line detector
+
 1. Edit `root/Modeling/Detector/code/config.py`. Please modify `run_mode` to `train`. Also, set the dataset you want to train (`dataset_name`).
 2. Run with
 ```
@@ -89,6 +90,7 @@ $ python main.py
 ```
 
 For training SLCD
+
 3. Edit `root/Modeling/SLCD/code/config.py`. Please modify `run_mode` to `train`. Also, set the dataset you want to train (`dataset_name`).
 4. Run with
 ```
