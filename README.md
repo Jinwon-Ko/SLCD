@@ -1,7 +1,7 @@
 # [CVPR 2024] Semantic Line Combination Detector
 ### Jinwon Ko, Dongkwon Jin and Chang-Su Kim.
 
-<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Overview.png" alt="overview" width="100%" height="70%" border="10"/>
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Overview.png" alt="overview" width="100%" height="70%" border="10"/>
 
 Official code for **"Semantic Line Combination Detector"** in CVPR 2024.
 [[arxiv]](http://arxiv.org/abs/2404.18399).
