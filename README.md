@@ -125,8 +125,6 @@ $ python main.py
 <img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Symmetric_Axis_Detection.png" alt="Symmetric axis detection" width="80%" height="55%" border="10"/>
 
 
-5. Vanishing point detection
-<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Vanishing_Point_Detection.png" alt="Vanishing point detection" width="100%" height="70%" border="10"/>
 
 
 Semantic feature grouping results
