@@ -107,3 +107,27 @@ $ cd root/Modeling/SLCD/code/
 $ python main.py
 ```
 
+
+### Results
+1. Semantic line detection
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Results.png" alt="Semantic line detection" width="100%" height="70%" border="10"/>
+
+
+2. Road lane detection
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Lane_Detection.png" alt="Road lane detection" width="100%" height="70%" border="10"/>
+
+
+3. Composition-based image retrieval
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Composition_based_Retrieval.png" alt="Composition-based image retrieval" width="100%" height="70%" border="10"/>
+
+
+4. Symmetric axis detection
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Symmetric_Axis_Detection.png" alt="Symmetric axis detection" width="100%" height="70%" border="10"/>
+
+
+5. Vanishing point detection
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Vanishing_Point_Detection.png" alt="Vanishing point detection" width="100%" height="70%" border="10"/>
+
+
+Semantic feature grouping results
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Semantic_Feature_Grouping_Results.png" alt="Semantic feature grouping" width="100%" height="70%" border="10"/>
