@@ -110,11 +110,9 @@ $ python main.py
 
 ### Results
 1. Semantic line detection
-<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Results.png" alt="Semantic line detection" width="100%" height="70%" border="10"/>
 
 
 2. Road lane detection
-<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Lane_Detection.png" alt="Road lane detection" width="100%" height="70%" border="10"/>
 
 
 3. Composition-based image retrieval
