@@ -126,7 +126,7 @@ $ python main.py
 
 
 5. Vanishing point detection
-<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Vanishing_Point_Detection.png" alt="Vanishing point detection" width="100%" height="70%" border="10"/>
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Vanishing_Point_Detection.png" alt="Vanishing point detection" width="80%" height="55%" border="10"/>
 
 
 Semantic feature grouping results
