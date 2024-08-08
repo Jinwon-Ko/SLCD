@@ -122,7 +122,7 @@ $ python main.py
 
 
 4. Symmetric axis detection
-<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Symmetric_Axis_Detection.png" alt="Symmetric axis detection" width="100%" height="70%" border="10"/>
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Symmetric_Axis_Detection.png" alt="Symmetric axis detection" width="80%" height="55%" border="10"/>
 
 
 5. Vanishing point detection
@@ -130,4 +130,4 @@ $ python main.py
 
 
 Semantic feature grouping results
-<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Semantic_Feature_Grouping_Results.png" alt="Semantic feature grouping" width="100%" height="70%" border="10"/>
+<img src="https://github.com/Jinwon-Ko/SLCD/blob/main/Figures/Semantic_Feature_Grouping_Results.png" alt="Semantic feature grouping" width="80%" height="55%" border="10"/>
