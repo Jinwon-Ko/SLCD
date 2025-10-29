@@ -5,7 +5,7 @@
 
 Official code for **"Semantic Line Combination Detector"** in CVPR 2024.
 [[arxiv]](http://arxiv.org/abs/2404.18399).
-[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10655095)).
+[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10655095).
 
 ### Dataset
 Download the following datasets to ```root/Datasets/```.
